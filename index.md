@@ -1,52 +1,13 @@
-<!-- Welcome to the code of my resume!-sam-->
-
-<!DOCTYPE html>
-<html>
-<title>Sam Trizza's Resume</title>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
-<link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Roboto'>
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<link rel="stylesheet" href="resume.css">
-<style>
-html,body,h1,h2,h3,h4,h5,h6 {font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif}
-</style>
-<!--
-<header class="w3-display-container w3-content w3-center" style="max-width:1500px">
-  <img class="w3-image" id= "head" class = "head" src="header.jpg" alt="Me" width="1500" height="600">
-    <div class="w3-display-middle w3-padding-large w3-border w3-wide w3-text-light-grey w3-center">
-    <h1 class="w3-hide-medium w3-hide-small w3-xxxlarge">Sam Trizza</h1>
-    <h5 class="w3-hide-large" style="white-space:nowrap">Sam Trizza</h5>
-    <h3 class="w3-hide-medium w3-hide-small">STUDENT</h3>
-  </div>
-</header> -->
-<body class="w3-blue-gray">
-
-<!-- Page Container -->
-<div class="w3-content w3-margin-top" style="max-width:1400px;">
-
-  <!-- The Grid -->
-  <div class="w3-row-padding">
+<img src="sam.jpg" style="width:100%" alt="Avatar">
+       
   
-    <!-- Left Column -->
-    <div class="w3-third">
-    
-      <div class="w3-white w3-text-grey w3-card-4">
-        <div class="w3-display-container">
-          <img src="sam.jpg" style="width:100%" alt="Avatar">
-          <div class="w3-display-bottomleft w3-container w3-text-white">
-            <h2 id="name" class="name">Sam Trizza</h2>
-          </div>
-        </div>
-        <div class="w3-container">
           <p><i class="fa fa-briefcase fa-fw w3-margin-right w3-large w3-text-teal"></i>Student</p>
           <p><i class="fa fa-home fa-fw w3-margin-right w3-large w3-text-teal"></i>Tulsa, OK</p>
           <p><i class="fa fa-envelope w3-hover-opacity fa-fw w3-margin-right w3-large w3-text-teal" onclick="window.location.href='mailto:sst972@utulsa.edu'" rel="noopener noreferrer" target="_blank"></i>sst972@utulsa.edu</p>
           <hr>
-          <div class="w3-container">
+
       <h6>Thanks for taking a look at my online resume! I am a Junior student with a love for my city and serving my university. I have an educational history in China, which has led me to pursue understanding cultures and fine-tuning my worldview. I am seeking to gain experience in exciting corporate and innovative settings, with particular interest in data-driven business and government.</h6>
-      </div>
+
       <hr>
           <p class="w3-large"><b><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-teal"></i>Skills</b></p>
           <p>Customer Service</p>
@@ -92,12 +53,6 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Palatino Linotype", "Book Antiqua", P
       </div>
       <br>
 
-    <!-- End Left Column -->
-    </div>
-
-    <!-- Right Column -->
-    <div class="w3-twothird">
-      <div class="w3-container w3-card w3-white">
         <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-certificate fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Education</h2>
         <div class="w3-container">
           <h5 class="w3-opacity"><b>The University of Tulsa</b></h5>
@@ -159,17 +114,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Palatino Linotype", "Book Antiqua", P
           <h6 class="w3-opacity"><b>Student Association Tech Services Associate Director</b> --- January 2018 - May 2018</h6>
           <h6 class="w3-opacity"><b>Student Association Senator</b> --- September 2016 - May 2017</h6>
       </div>
-
-    <!-- End Right Column -->
-    </div>
-    
-  <!-- End Grid -->
-  </div>
-    
-  <!-- End Page Container -->
-</div>
-
-<footer class="w3-container w3-teal w3-center w3-margin-top">
+  
   <br>
 <form>
 <p>Find me on social media</p>
@@ -180,6 +125,3 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Palatino Linotype", "Book Antiqua", P
 </form>
 <br>
 </footer>
-
-</body>
-</html>
