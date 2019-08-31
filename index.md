@@ -4,29 +4,26 @@
 
 <hr>
 
-<h6>Thanks for taking a look at my online resume! I am a Junior student with a love for my city and serving my university. I have an educational history in China, which has led me to pursue understanding cultures and fine-tuning my worldview. I am seeking to gain experience in exciting corporate and innovative settings, with particular interest in data-driven business and government.</h6>
+<h4>Thanks for taking a look at my online resume! I hope this site gives you an overview of the skills I've learned this semester.</h4>
 
 <hr>
-        <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-certificate fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Education</h2>
+
+<h2 class="w3-text-grey w3-padding-16"><i class="fa fa-certificate fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Education</h2>
      
-          <h5 class="w3-opacity"><b>The University of Tulsa</b></h5>
-          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>August 2016 - Present</h6>
-          <h5>Bachelor of Science in Business Administration, Computer Information Systems</h5><p>Innovation and Entreprenuership Minor<br>Chinese Language Minor<br>GPA: 3.70</p>
-          <hr>
+<h5 class="w3-opacity"><b>The University of Tulsa</b></h5>
+<h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>August 2016 - Present</h6>
+<h5>Bachelor of Science in Business Administration, Computer Information Systems</h5><p>Innovation and Entreprenuership Minor<br>Chinese Language Minor<br>GPA: 3.70</p>
+
+<hr>
   
-
-          <h5 class="w3-opacity"><b>Nanjing University</b></h5>
-          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>September 2017 - December 2017</h6>
-          <p>Studied abroad through CIEE taking 18 hours of Chinese language and cultural courses. <br>
-          Volunteered each week teaching English to children from a low-class background.</p>
-
-
+<h5 class="w3-opacity"><b>Nanjing University</b></h5>
+<h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>September 2017 - December 2017</h6>
+<p>Studied abroad through CIEE taking 18 hours of Chinese language and cultural courses. <br>
+Volunteered each week teaching English to children from a low-class background.</p>
 
 <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-suitcase fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Experience</h2>
-       
-
-          <h4 class="w3-opacity"><b>Intern</b></h4>
-          <h5 class="w3-opacity"><b>Office of the Mayor, City of Tulsa</b></h5>
+<h4 class="w3-opacity"><b>Intern</b></h4>
+<h5 class="w3-opacity"><b>Office of the Mayor, City of Tulsa</b></h5>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>May 2018 - July 2019</h6>
           <p>Conducted an equipment study using Excel, concluding with funds that will be voted on by the public.<br>
               Used SharePoint to recreate an in-office AIM Plan management site.<br>
@@ -42,35 +39,31 @@
           <hr>
 
 
-          <h4 class="w3-opacity"><b>Front Desk Agent / Missionary</b></h4>
-          <h5 class="w3-opacity"><b>Xanterra Travel Collection / A Christian Ministry in the National Parks</b></h5>
-          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>May 2017 - August 2017</h6>
-          <p> Mastered the Opera platform to check in guests and manage lodge rooms. <br>
-              Provided guest services by problem solving, satisfying requests, and keeping records of accounts.<br>
-              Organized and led Sunday church services and Bible studies for employees and park visitors. 
-          </p>
+<h4 class="w3-opacity"><b>Front Desk Agent / Missionary</b></h4>
+<h5 class="w3-opacity"><b>Xanterra Travel Collection / A Christian Ministry in the National Parks</b></h5>
+<h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>May 2017 - August 2017</h6>
+<p> Mastered the Opera platform to check in guests and manage lodge rooms. <br>
+    Provided guest services by problem solving, satisfying requests, and keeping records of accounts.<br>
+    Organized and led Sunday church services and Bible studies for employees and park visitors. 
+</p>
 
   
-        <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-rocket fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Activities</h2>
-          <h6 class="w3-opacity"><b>Distinguished Lecture Series Undergraduate Representative</b> --- September 2018 - Present</h6>
-          <h6 class="w3-opacity"><b>Cane Connection Host</b> --- August 2018 - Present</h6>
-          <h6 class="w3-opacity"><b>NOVA (Innovation) Fellow</b> --- April 2018 - Present</h6>
-          <h6 class="w3-opacity"><b>Orientation Leader</b> --- February 2018 - Present</h6>
-          <h6 class="w3-opacity"><b>University Ambassador</b> --- February 2018 - Present</h6>
-          <h6 class="w3-opacity"><b>Reformed University Fellowship Ministry Team</b> --- January 2018 - Present</h6>
-          <h6 class="w3-opacity"><b>Lambda Chi Alpha Fraternity Member</b> --- August 2016 - Present</h6>
-          <h6 class="w3-opacity"><b>Lambda Chi Alpha Fraternity Secretary</b> --- December 2016 - May 2017</h6>
-          <h6 class="w3-opacity"><b>Student Association Tech Services Associate Director</b> --- January 2018 - May 2018</h6>
-          <h6 class="w3-opacity"><b>Student Association Senator</b> --- September 2016 - May 2017</h6>
+<h2 class="w3-text-grey w3-padding-16"><i class="fa fa-rocket fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Activities</h2>
+<h6 class="w3-opacity"><b>Distinguished Lecture Series Undergraduate Representative</b> --- September 2018 - Present</h6>
+<h6 class="w3-opacity"><b>Cane Connection Host</b> --- August 2018 - Present</h6>
+<h6 class="w3-opacity"><b>NOVA (Innovation) Fellow</b> --- April 2018 - Present</h6>
+<h6 class="w3-opacity"><b>Orientation Leader</b> --- February 2018 - Present</h6>
+<h6 class="w3-opacity"><b>University Ambassador</b> --- February 2018 - Present</h6>
+<h6 class="w3-opacity"><b>Reformed University Fellowship Ministry Team</b> --- January 2018 - Present</h6>
+<h6 class="w3-opacity"><b>Lambda Chi Alpha Fraternity Member</b> --- August 2016 - Present</h6>
+<h6 class="w3-opacity"><b>Lambda Chi Alpha Fraternity Secretary</b> --- December 2016 - May 2017</h6>
+<h6 class="w3-opacity"><b>Student Association Tech Services Associate Director</b> --- January 2018 - May 2018</h6>
+<h6 class="w3-opacity"><b>Student Association Senator</b> --- September 2016 - May 2017</h6>
   
-  <br>
+<br>
   
-<footer>
 <form>
 <p>Find me on social media</p>
-<i class="fa fa-linkedin w3-hover-opacity" onclick="window.location.href='https://www.linkedin.com/in/sam-trizza-513b03124'" rel="noopener noreferrer" style="font-size:25px" target="_blank"></i>
-<i class="fa fa-facebook-official w3-hover-opacity" onclick="window.location.href='https://www.facebook.com/samtrizza'" rel="noopener noreferrer" style="font-size:25px" target="_blank"></i>
-<i class="fa fa-instagram w3-hover-opacity" onclick="window.location.href='https://www.instagram.com/samasiteverwas'" rel="noopener noreferrer" style="font-size:25px" target="_blank"></i>
-<i class="fa fa-wordpress w3-hover-opacity" onclick="window.location.href='https://treeringsandsinkingroots.wordpress.com'" rel="noopener noreferrer" style="font-size:25px" target="_blank"></i>
+facebook_username: samtrizza
+instagram_username: samasiteverwas
 </form>
-</footer>
