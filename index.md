@@ -1,4 +1,3 @@
-<p><i class="fa fa-briefcase fa-fw w3-margin-right w3-large w3-text-teal"></i>Student</p>
 <p><i class="fa fa-home fa-fw w3-margin-right w3-large w3-text-teal"></i>Tulsa, OK</p>
 <p><i class="fa fa-envelope w3-hover-opacity fa-fw w3-margin-right w3-large w3-text-teal" onclick="window.location.href='mailto:sst972@utulsa.edu'" rel="noopener noreferrer" target="_blank"></i>sst972@utulsa.edu</p>
 
