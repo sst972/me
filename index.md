@@ -1,58 +1,14 @@
 <img src="sam.jpg" style="width:100%" alt="Avatar">
        
-  
-          <p><i class="fa fa-briefcase fa-fw w3-margin-right w3-large w3-text-teal"></i>Student</p>
-          <p><i class="fa fa-home fa-fw w3-margin-right w3-large w3-text-teal"></i>Tulsa, OK</p>
-          <p><i class="fa fa-envelope w3-hover-opacity fa-fw w3-margin-right w3-large w3-text-teal" onclick="window.location.href='mailto:sst972@utulsa.edu'" rel="noopener noreferrer" target="_blank"></i>sst972@utulsa.edu</p>
-          <hr>
+<p><i class="fa fa-briefcase fa-fw w3-margin-right w3-large w3-text-teal"></i>Student</p>
+<p><i class="fa fa-home fa-fw w3-margin-right w3-large w3-text-teal"></i>Tulsa, OK</p>
+<p><i class="fa fa-envelope w3-hover-opacity fa-fw w3-margin-right w3-large w3-text-teal" onclick="window.location.href='mailto:sst972@utulsa.edu'" rel="noopener noreferrer" target="_blank"></i>sst972@utulsa.edu</p>
 
-      <h6>Thanks for taking a look at my online resume! I am a Junior student with a love for my city and serving my university. I have an educational history in China, which has led me to pursue understanding cultures and fine-tuning my worldview. I am seeking to gain experience in exciting corporate and innovative settings, with particular interest in data-driven business and government.</h6>
+<hr>
 
-      <hr>
-          <p class="w3-large"><b><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-teal"></i>Skills</b></p>
-          <p>Customer Service</p>
-          <div class="w3-light-grey w3-round-xlarge w3-small">
-            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:85%">
-              <div class="w3-center w3-text-white">Exemplary</div>
-            </div>
-          </div>
-          <p>Public Speaking, Presenting, and Organization</p>
-          <div class="w3-light-grey w3-round-xlarge w3-small">
-            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:75%">Exemplary</div>
-          </div>
-          <p>Microsoft Office, WordPress, and SharePoint</p>
-          <div class="w3-light-grey w3-round-xlarge w3-small">
-            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:75%">
-              <div class="w3-center w3-text-white">Exemplary</div>
-            </div>
-          </div>
-          <p>HTML, CSS, and JavaScript</p>
-          <div class="w3-light-grey w3-round-xlarge w3-small">
-            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:50%">Proficient</div>
-          </div>
-          <hr>
-          <p class="w3-large w3-text-theme"><b><i class="fa fa-globe fa-fw w3-margin-right w3-text-teal"></i>Languages</b></p>
-          <p>English</p>
-          <div class="w3-light-grey w3-round-xlarge">
-            <div class="w3-round-xlarge w3-teal" style="height:24px;width:100%"></div>
-          </div>
-          <p>Mandarin Chinese</p>
-          <div class="w3-light-grey w3-round-xlarge">
-            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:50%">Conversational</div>
-          </div>
-          <hr>
-          <p class="w3-large w3-text-theme"><b><i class="fa fa-mortar-board fa-fw w3-margin-right w3-text-teal"></i>Honors</b></p>
-          <p>University Academic Scholarship<br>
-          International Baccalaureate Scholarship<br>
-          Dean’s Honor Roll (Spring 2018) and Dean’s Scholarship</p>
-          <hr>
-          <p class="w3-large w3-text-theme"><b><i class="fa fa-file-o fa-fw w3-margin-right w3-text-teal"></i></b>Click <a href="http://sam-trizza.cis-utulsa.net/sam/Trizza Resume.pdf" target="_blank"><b>here</b></a> for resume in PDF form.</p>
-          <!-- <button onclick="window.location.href='http://sam-trizza.cis-utulsa.net/sam/resume.pdf'" rel="noopener noreferrer" target="_blank">PDF Resume</button> -->
-          
-        </div>
-      </div>
-      <br>
+<h6>Thanks for taking a look at my online resume! I am a Junior student with a love for my city and serving my university. I have an educational history in China, which has led me to pursue understanding cultures and fine-tuning my worldview. I am seeking to gain experience in exciting corporate and innovative settings, with particular interest in data-driven business and government.</h6>
 
+<hr>
         <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-certificate fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Education</h2>
         <div class="w3-container">
           <h5 class="w3-opacity"><b>The University of Tulsa</b></h5>
