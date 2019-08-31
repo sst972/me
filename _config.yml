@@ -1,14 +1,16 @@
 theme: minima
 title: Sam Shwadlenak Trizza
-author: sam trizza
+author: 
 email: sam-trizza@utulsa.edu
 description: > # this means to ignore newlines until "baseurl:"
   Hello! Welcome to my resume site. Here, you'll be able to find what I've been up to this semester.
 
----
+
 # social links
 facebook_username: sam.trizza
+instagram_username: samasiteverwas
+linkedin_username: sam-trizza
 github_username:  sst972
----
+
 
 show_excerpts: true # set to false to remove excerpts on the homepage
