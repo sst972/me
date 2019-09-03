@@ -1,6 +1,6 @@
 <h2>Welcome!</h2>
 <h4>Thanks for taking a look at my online technical resume! This site gives an overview of the skills I've learned this semester.</h4>
-<img src="samblue.jpg" alt="Sam Trizza Avatar" width="128" height="128" align="center" style=img{border=50%;}>
+<img src="samblue.jpg" alt="Sam Trizza Avatar" width="128" height="128" align="center" style=img{border=50%;} border="2">
 
 <hr>
 
