@@ -1,12 +1,6 @@
-<style>
-img {
-  border-radius: 50;
-}
-</style>
-
 <h2>Welcome!</h2>
 <h4>Thanks for taking a look at my online technical resume! This site gives an overview of the skills I've learned this semester.</h4>
-<img src="samblue.jpg" alt="Sam Trizza Avatar" style="width:128px;height:128px;">
+<img src="samblue.jpg" alt="Sam Trizza Avatar" width="128" height="128" align="center" border="2">
 
 <hr>
 
