@@ -22,7 +22,7 @@
   <li>Managing merge conflicts</li>
   <li>Securing your workflows</li>
 </ul>
-<img src="github1.png" alt="First Week on GitHub" width="250" height="150">
+<img src="github1.png" alt="First Week on GitHub" width="500" height="400">
 </p>
 
 <h4><b>Linux</b></h4>
