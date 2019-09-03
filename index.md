@@ -12,7 +12,7 @@
 
 <h2><b>Technical Skills</b></h2>
 
-<details open>
+<details closed>
   <summary><b>GitHub</b></summary>
   <br>
   <p>Courses completed include:
