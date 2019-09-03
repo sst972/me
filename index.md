@@ -1,10 +1,4 @@
 <img src="samblue.jpg" alt="Sam Trizza Avatar" width="128" height="128" align="center" border="2">
-<style>
-  img {
-  border: 50%;
-  }
-</style>
-</img>
 
 <h2>Welcome!</h2>
 <h4>Thanks for taking a look at my online technical resume! This site gives an overview of the skills I've learned this semester.</h4>
