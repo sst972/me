@@ -12,18 +12,21 @@
 
 <h2><b>Technical Skills</b></h2>
 
-<h4><b>GitHub</b></h4>
-<p>Courses completed include:
-<ul>
-  <li>Uploading your project to GitHub</li>
-  <li>Communicating using Markdown</li>
-  <li>GitHub Pages</li>
-  <li>Reviewing pull requests</li>
-  <li>Managing merge conflicts</li>
-  <li>Securing your workflows</li>
-</ul>
-<img src="github1.png" alt="First Week on GitHub" width="600" height="400" border="2">
-</p>
+<details open>
+  <summary><b>GitHub</b></summary>
+  <br>
+  <p>Courses completed include:
+  <ul>
+    <li>Uploading your project to GitHub</li>
+    <li>Communicating using Markdown</li>
+    <li>GitHub Pages</li>
+    <li>Reviewing pull requests</li>
+    <li>Managing merge conflicts</li>
+    <li>Securing your workflows</li>
+  </ul>
+  <img src="github1.png" alt="First Week on GitHub" width="600" height="400" border="2">
+  </p>
+</details>
 
 <h4><b>Linux</b></h4>
 <p>Skills include:
