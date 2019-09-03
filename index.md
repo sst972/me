@@ -1,11 +1,11 @@
 <h2>Welcome!</h2>
-<h4>Thanks for taking a look at my online resume! This site gives an overview of the skills I've learned this semester.</h4>
+<h4>Thanks for taking a look at my online technical resume! This site gives an overview of the skills I've learned this semester.</h4>
 
 <hr>
 
 <h3>Technical Skills</h3>
 
-<h5><b>GitHub</b></h5>
+<h4><b>GitHub</b></h4>
 <p>I completed
 <ul>
   <li>Uploading your project to GitHub</li>
@@ -17,7 +17,7 @@
 </ul>
 </p>
 
-<h5><b>Linux</b></h5>
+<h4><b>Linux</b></h4>
 <p>Skills include
   <ul>
   <li>Kernel definition and naming conventions</li>
@@ -30,7 +30,7 @@
   </ul>
 </p>
 
-<h5><b>PowerBI</b></h5>
+<h4><b>PowerBI</b></h4>
 <p>Data analysis and visualization skills include
   <ul>
   <li>Manipulating and modeling data</li>
@@ -43,7 +43,7 @@
   </ul>
 </p>
 
-<h5><b>PowerShell</b></h5>
+<h4><b>PowerShell</b></h4>
 <p>Skills include
   <ul>
   <li>PowerShell purpose, launching and commmandlets</li>
@@ -58,7 +58,7 @@
   </ul>
 </p> 
 
-<h5><b>AWS</b></h5>
+<h4><b>AWS</b></h4>
 <p>Courses completed include
   <ul>
   <li>Definition and benefits of cloud computing</li>
@@ -70,7 +70,7 @@
   </ul>
 </p> 
 
-<h5><b>Salesforce</b></h5>
+<h4><b>Salesforce</b></h4>
 <p>Courses completed include
   <ul>
   <li>Salesforce Platform Basics</li>
