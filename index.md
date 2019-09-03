@@ -10,7 +10,7 @@
 
 <hr>
 
-<h3>Technical Skills</h3>
+<h2><b>Technical Skills</b></h2>
 
 <h4><b>GitHub</b></h4>
 <p>Courses completed include:
