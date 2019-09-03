@@ -28,66 +28,81 @@
   </p>
 </details>
 
-<h4><b>Linux</b></h4>
-<p>Skills include:
+<details closed>
+  <summary><b>Linux</b></summary>
+  <br>
+  <p>Skills include:
   <ul>
-  <li>Kernel definition and naming conventions</li>
-  <li>Basic commands (pwd, cd, ls, cat, history, etc.)</li>
-  <li>User permissions (read, write, execute, etc.)</li>
-  <li>Input and Output redirection and Piping</li>
-  <li>Linux environment variables (PATH, $LANG, etc.)</li>
-  <li>Communicating within networks (Ping, FTP, SSH)</li>
-  <li>Shell scripting and virtual terminals</li>
+    <li>Kernel definition and naming conventions</li>
+    <li>Basic commands (pwd, cd, ls, cat, history, etc.)</li>
+    <li>User permissions (read, write, execute, etc.)</li>
+    <li>Input and Output redirection and Piping</li>
+    <li>Linux environment variables (PATH, $LANG, etc.)</li>
+    <li>Communicating within networks (Ping, FTP, SSH)</li>
+    <li>Shell scripting and virtual terminals</li>
   </ul>
-</p>
+  </p>
+</details>
 
-<h4><b>PowerBI</b></h4>
-<p>Data analysis and visualization skills include:
+<details closed>
+  <summary><b>PowerBI</b></summary>
+  <br>
+  <p>Data analysis and visualization skills include:
   <ul>
-  <li>Manipulating and modeling data</li>
-  <li>Graphs, slicers, and conditional formatting</li>
-  <li>Dashboards in Power BI Service</li>
-  <li>Excel with Power BI</li>
-  <li>Managing data content and security</li>
-  <li>Creating live connections to servers (through SQL Azure, SQL Database, etc.)</li>
-  <li>Power BI mobile phone/tablet compatibility</li>
+    <li>Manipulating and modeling data</li>
+    <li>Graphs, slicers, and conditional formatting</li>
+    <li>Dashboards in Power BI Service</li>
+    <li>Excel with Power BI</li>
+    <li>Managing data content and security</li>
+    <li>Creating live connections to servers (through SQL Azure, SQL Database, etc.)</li>
+    <li>Power BI mobile phone/tablet compatibility</li>
   </ul>
-</p>
+  </p>
+</details>
 
-<h4><b>PowerShell</b></h4>
-<p>Skills include:
+<details closed>
+  <summary><b>PowerShell</b></summary>
+  <br>
+  <p>Skills include:
   <ul>
-  <li>PowerShell purpose, launching and commmandlets</li>
-  <li>Effective use of the help system</li>
-  <li>Using the pipeline, object and remote</li>
-  <li>Automation</li>
-  <li>Basic scripting</li>
-  <li>DSC architecture (push/pull)</li>
-  <li>Configuring servers for deployment</li>
-  <li>Common code practices</li>
-  <li>DSC and Linux</li>
+    <li>PowerShell purpose, launching and commmandlets</li>
+    <li>Effective use of the help system</li>
+    <li>Using the pipeline, object and remote</li>
+    <li>Automation</li>
+    <li>Basic scripting</li>
+    <li>DSC architecture (push/pull)</li>
+    <li>Configuring servers for deployment</li>
+    <li>Common code practices</li>
+    <li>DSC and Linux</li>
   </ul>
-</p> 
+  </p> 
+</details>
 
-<h4><b>AWS</b></h4>
-<p>Courses completed include:
+<details closed>
+  <summary><b>AWS</b></summary>
+  <br>
+  <p>Courses completed include:
   <ul>
-  <li>Definition and benefits of cloud computing</li>
-  <li>AWS Core Services</li>
-  <li>AWS Security</li>
-  <li>AWS Architecting</li>
-  <li>AWS Pricing and Support</li>
-  <li>AWS Product Demonstrations</li>
+    <li>Definition and benefits of cloud computing</li>
+    <li>AWS Core Services</li>
+    <li>AWS Security</li>
+    <li>AWS Architecting</li>
+    <li>AWS Pricing and Support</li>
+    <li>AWS Product Demonstrations</li>
   </ul>
-</p> 
-
-<h4><b>Salesforce</b></h4>
-<p>Courses completed include:
+  </p>
+</details>
+  
+<details closed>
+  <summary><b>Salesforce</b></summary>
+  <br>
+  <p>Courses completed include:
   <ul>
-  <li>Salesforce Platform Basics</li>
-  <li>Data Modeling and Management</li>
-  <li>Lightning Experience Customization</li>
-  <li>Salesforce Mobile App Customization</li>
-  <li>Reports & Dashboards for Lightning Experience</li>
+    <li>Salesforce Platform Basics</li>
+    <li>Data Modeling and Management</li>
+    <li>Lightning Experience Customization</li>
+    <li>Salesforce Mobile App Customization</li>
+    <li>Reports & Dashboards for Lightning Experience</li>
   </ul>
-</p> 
+  </p> 
+</details>
