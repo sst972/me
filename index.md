@@ -1,13 +1,13 @@
 <h2>Welcome!</h2>
 <h4>Thanks for taking a look at my online technical resume! This site gives an overview of the skills I've learned this semester.</h4>
-<img src="samblue.jpg" alt="Sam Trizza Avatar" width="128" height="128" align="center" border="2">
+<img src="samblue.jpg" alt="Sam Trizza Avatar" width="128" height="128" align="center">
 
 <hr>
 
 <h3>Technical Skills</h3>
 
 <h4><b>GitHub</b></h4>
-<p>Courses completed include
+<p>Courses completed include:
 <ul>
   <li>Uploading your project to GitHub</li>
   <li>Communicating using Markdown</li>
@@ -19,7 +19,7 @@
 </p>
 
 <h4><b>Linux</b></h4>
-<p>Skills include
+<p>Skills include:
   <ul>
   <li>Kernel definition and naming conventions</li>
   <li>Basic commands (pwd, cd, ls, cat, history, etc.)</li>
@@ -32,7 +32,7 @@
 </p>
 
 <h4><b>PowerBI</b></h4>
-<p>Data analysis and visualization skills include
+<p>Data analysis and visualization skills include:
   <ul>
   <li>Manipulating and modeling data</li>
   <li>Graphs, slicers, and conditional formatting</li>
@@ -45,7 +45,7 @@
 </p>
 
 <h4><b>PowerShell</b></h4>
-<p>Skills include
+<p>Skills include:
   <ul>
   <li>PowerShell purpose, launching and commmandlets</li>
   <li>Effective use of the help system</li>
@@ -60,7 +60,7 @@
 </p> 
 
 <h4><b>AWS</b></h4>
-<p>Courses completed include
+<p>Courses completed include:
   <ul>
   <li>Definition and benefits of cloud computing</li>
   <li>AWS Core Services</li>
@@ -72,7 +72,7 @@
 </p> 
 
 <h4><b>Salesforce</b></h4>
-<p>Courses completed include
+<p>Courses completed include:
   <ul>
   <li>Salesforce Platform Basics</li>
   <li>Data Modeling and Management</li>
