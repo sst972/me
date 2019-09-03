@@ -17,8 +17,6 @@
 </ul>
 </p>
 
-<br>
-
 <h5><b>Linux</b></h5>
 <p>Skills include
   <ul>
@@ -29,5 +27,56 @@
   <li>Linux environment variables (PATH, $LANG, etc.)</li>
   <li>Communicating within networks (Ping, FTP, SSH)</li>
   <li>Shell scripting and virtual terminals</li>
-</ul>
+  </ul>
 </p>
+
+<h5><b>PowerBI</b></h5>
+<p>Data analysis and visualization skills include
+  <ul>
+  <li>Manipulating and modeling data</li>
+  <li>Graphs, slicers, and conditional formatting</li>
+  <li>Dashboards in Power BI Service</li>
+  <li>Excel with Power BI</li>
+  <li>Managing data content and security</li>
+  <li>Creating live connections to servers (through SQL Azure, SQL Database, etc.)</li>
+  <li>Power BI mobile phone/tablet compatibility</li>
+  </ul>
+</p>
+
+<h5><b>PowerShell</b></h5>
+<p>Skills include
+  <ul>
+  <li>PowerShell purpose, launching and commmandlets</li>
+  <li>Effective use of the help system</li>
+  <li>Using the pipeline, object and remote</li>
+  <li>Automation</li>
+  <li>Basic scripting</li>
+  <li>DSC architecture (push/pull)</li>
+  <li>Configuring servers for deployment</li>
+  <li>Common code practices</li>
+  <li>DSC and Linux</li>
+  </ul>
+</p> 
+
+<h5><b>AWS</b></h5>
+<p>Courses completed include
+  <ul>
+  <li>Definition and benefits of cloud computing</li>
+  <li>AWS Core Services</li>
+  <li>AWS Security</li>
+  <li>AWS Architecting</li>
+  <li>AWS Pricing and Support</li>
+  <li>AWS Product Demonstrations</li>
+  </ul>
+</p> 
+
+<h5><b>Salesforce</b></h5>
+<p>Courses completed include
+  <ul>
+  <li>Salesforce Platform Basics</li>
+  <li>Data Modeling and Management</li>
+  <li>Lightning Experience Customization</li>
+  <li>Salesforce Mobile App Customization</li>
+  <li>Reports & Dashboards for Lightning Experience</li>
+  </ul>
+</p> 
