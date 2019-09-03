@@ -1,12 +1,13 @@
 <h2>Welcome!</h2>
 <h4>Thanks for taking a look at my online technical resume! This site gives an overview of the skills I've learned this semester.</h4>
+<img src="greensam.jpg" alt="Sam Trizza Avatar">
 
 <hr>
 
 <h3>Technical Skills</h3>
 
 <h4><b>GitHub</b></h4>
-<p>I completed
+<p>Courses completed include
 <ul>
   <li>Uploading your project to GitHub</li>
   <li>Communicating using Markdown</li>
