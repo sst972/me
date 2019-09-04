@@ -1,12 +1,16 @@
 theme: minima
-title: Sam Shwadlenak Trizza
+title: Sam Trizza's Tech Resume
+author: Sam Shwadlenak Trizza
 email: sam-trizza@utulsa.edu
 description: > # this means to ignore newlines until "baseurl:"
+text: Thanks for visiting my technical resume!
+location: Tulsa, Oklahoma
 
 # social links
 facebook_username: sam.trizza
 instagram_username: samasiteverwas
 linkedin_username: sam-trizza
 github_username:  sst972
+link: treeringsandsinkingroots.wordpress.com
 
 show_excerpts: true # set to false to remove excerpts on the homepage
