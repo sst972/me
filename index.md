@@ -10,10 +10,11 @@
 <details closed>
   <summary><b>GitHub</b></summary>
   <br>
-  <p>Courses completed include:
+  <p>Through this training, I learned basic GitHub operations and best practices around building projects with others and communicating with developers, from pull requests to master merges. This resume was part of the training is is hosted on GitHub with Markdown and YAML.
+    Courses completed include:
   <ul>
-    <li>Uploading your project to GitHub</li>
     <li>Communicating using Markdown</li>
+    <li>Uploading your project to GitHub</li>
     <li>GitHub Pages</li>
     <li>Reviewing pull requests</li>
     <li>Managing merge conflicts</li>
