@@ -6,6 +6,16 @@ description: > # this means to ignore newlines until "baseurl:"
 text: Thanks for visiting my technical resume!
 location: Tulsa, Oklahoma
 
+# Resume settings
+resume_avatar:                  "true"
+resume_name:                    "Sam Trizza"
+resume_title:                   "Student"
+resume_contact_email:           "sst972@utulsa.edu"
+resume_contact_telephone:       "918-899-4425"
+resume_contact_address:         "Tulsa, Oklahoma"
+resume_header_contact_info: "918-899-4424 | sst972@utulsa.edu"
+resume_header_intro: "<p>We're more than our resumes, but this is a snapshot!</p>"
+
 # social links
 facebook_username: sam.trizza
 instagram_username: samasiteverwas
