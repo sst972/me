@@ -44,7 +44,7 @@
 <details closed>
   <summary><b>PowerBI</b></summary>
   <br>
-  <p>I completed the Analyzing and Visualizing Data with Power BI course on edX.org<a href = "https://courses.edx.org/courses/course-v1:Microsoft+DAT207x+2T2019/course/">, which included topics like:
+  <p>I completed the Analyzing and Visualizing Data with Power BI course on <a href = "https://courses.edx.org/courses/course-v1:Microsoft+DAT207x+2T2019/course/">edX.org</a>, which included topics like:
   <ul>
     <li>Manipulating and modeling data</li>
     <li>Graphs, slicers, and conditional formatting</li>
