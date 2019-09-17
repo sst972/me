@@ -42,9 +42,9 @@
 </details>
 
 <details closed>
-  <summary><b>PowerBI</b></summary>
+  <summary><b>Power BI</b></summary>
   <br>
-  <p>I completed the Analyzing and Visualizing Data with Power BI course on <a href = "https://courses.edx.org/courses/course-v1:Microsoft+DAT207x+2T2019/course/">edX.org</a>, which included topics like:
+  <p>I completed the Analyzing and Visualizing Data with Power BI course on <a href = "https://courses.edx.org/courses/course-v1:Microsoft+DAT207x+2T2019/course/">edX.org</a>. This course, coupled with a business project, allowed me to understand the uses of Power BI as a communication tool. Topics included in the course were:
   <ul>
     <li>Manipulating and modeling data</li>
     <li>Graphs, slicers, and conditional formatting</li>
