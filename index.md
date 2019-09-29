@@ -40,7 +40,7 @@
   </ul>
   </p>
   <img src="PowerBI-1.png" alt="Course Covernings" width="630" height="400" border="2">
-  <p>For my project, I used Microsoft's <a href = "https://docs.microsoft.com/en-us/power-bi/sample-human-resources">Human Resources Sample Data</a>. See the explanation video for my dashboard here.
+  <p>For my project's example dashboard, I used Microsoft's <a href = "https://docs.microsoft.com/en-us/power-bi/sample-human-resources">Human Resources Sample Data</a>. See the explanation video for my dashboard here.
   <img src="PowerBI-2.png" alt="My Power BI Sample Dashboard" width="700" height="400" border="2">
   </p>
 </details>
