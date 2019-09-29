@@ -26,6 +26,25 @@
 </details>
 
 <details closed>
+  <summary><b>Power BI</b></summary>
+  <br>
+  <p>I completed the Analyzing and Visualizing Data with Power BI course on <a href = "https://courses.edx.org/courses/course-v1:Microsoft+DAT207x+2T2019/course/">edX.org</a>. This course, coupled with an example project, allowed me to understand the uses of Power BI as a communication tool. Topics included in the course were:
+  <ul>
+    <li>Manipulating and modeling data</li>
+    <li>Graphs, slicers, and conditional formatting</li>
+    <li>Dashboards in Power BI Service</li>
+    <li>Excel with Power BI</li>
+    <li>Managing data content and security</li>
+    <li>Creating live connections to servers (through SQL Azure, SQL Database, etc.)</li>
+    <li>Power BI mobile phone/tablet compatibility</li>
+  </ul>
+  <img src="PowerBI-1.png" alt="Course Covernings" width="600" height="400" border="2">
+  For my project, I used Microsoft's <a href = "https://docs.microsoft.com/en-us/power-bi/sample-human-resources">Human Resources Sample Data</a>. See the explanation video for my dashboard here.
+  <img src="PowerBI-2.png" alt="My Power BI Sample Dashboard" width="600" height="400" border="2">
+  </p>
+</details>
+
+<details closed>
   <summary><b>Linux</b></summary>
   <br>
   <p>Skills include:
@@ -37,22 +56,6 @@
     <li>Linux environment variables (PATH, $LANG, etc.)</li>
     <li>Communicating within networks (Ping, FTP, SSH)</li>
     <li>Shell scripting and virtual terminals</li>
-  </ul>
-  </p>
-</details>
-
-<details closed>
-  <summary><b>Power BI</b></summary>
-  <br>
-  <p>I completed the Analyzing and Visualizing Data with Power BI course on <a href = "https://courses.edx.org/courses/course-v1:Microsoft+DAT207x+2T2019/course/">edX.org</a>. This course, coupled with a business project, allowed me to understand the uses of Power BI as a communication tool. Topics included in the course were:
-  <ul>
-    <li>Manipulating and modeling data</li>
-    <li>Graphs, slicers, and conditional formatting</li>
-    <li>Dashboards in Power BI Service</li>
-    <li>Excel with Power BI</li>
-    <li>Managing data content and security</li>
-    <li>Creating live connections to servers (through SQL Azure, SQL Database, etc.)</li>
-    <li>Power BI mobile phone/tablet compatibility</li>
   </ul>
   </p>
 </details>
