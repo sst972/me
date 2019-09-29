@@ -20,7 +20,7 @@
     <li>Managing merge conflicts</li>
     <li>Securing your workflows</li>
   </ul>
-  <img src="github-3.png" alt="First Week on GitHub" width="600" height="400" border="2">
+  <img src="github-3.png" alt="First Day on GitHub" width="600" height="400" border="2">
   <img src="github-2.png" alt="First Week on GitHub" width="600" height="400" border="2">
   </p>
 </details>
@@ -38,9 +38,10 @@
     <li>Creating live connections to servers (through SQL Azure, SQL Database, etc.)</li>
     <li>Power BI mobile phone/tablet compatibility</li>
   </ul>
-  <img src="PowerBI-1.png" alt="Course Covernings" width="600" height="400" border="2">
-  For my project, I used Microsoft's <a href = "https://docs.microsoft.com/en-us/power-bi/sample-human-resources">Human Resources Sample Data</a>. See the explanation video for my dashboard here.
-  <img src="PowerBI-2.png" alt="My Power BI Sample Dashboard" width="600" height="400" border="2">
+  </p>
+  <img src="PowerBI-1.png" alt="Course Covernings" width="630" height="400" border="2">
+  <p>For my project, I used Microsoft's <a href = "https://docs.microsoft.com/en-us/power-bi/sample-human-resources">Human Resources Sample Data</a>. See the explanation video for my dashboard here.
+  <img src="PowerBI-2.png" alt="My Power BI Sample Dashboard" width="700" height="400" border="2">
   </p>
 </details>
 
