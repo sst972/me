@@ -62,8 +62,8 @@
     <li>Communicating within networks (Ping, FTP, SSH)</li>
     <li>Shell scripting and virtual terminals</li>
   </ul>
-  <img src="Linux-1.png" alt="Mock-Test" width="700" height="400" border="2">
-  <img src="Linux-2.png" alt="Linux Course Completion" width="700" height="400" border="2">
+  <img src="Linux-1.png" alt="Mock-Test" width="600" height="400" border="2">
+  <img src="Linux-2.png" alt="Linux Course Completion" width="600" height="400" border="2">
   </p>
 </details>
 
