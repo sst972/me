@@ -52,7 +52,7 @@
 <details closed>
   <summary><b>Linux</b></summary>
   <br>
-  <p>I completed Linux Academy's <a href = "https://linuxacademy.com/cp/modules/view/id/346">LPI Linux Essentials Certification</a> which coveres:
+  <p>I completed Linux Academy's <a href = "https://linuxacademy.com/cp/modules/view/id/346">LPI Linux Essentials Certification</a> which covers:
   <ul>
     <li>Kernel definition and naming conventions</li>
     <li>Basic commands (pwd, cd, ls, cat, history, etc.)</li>
