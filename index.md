@@ -52,7 +52,7 @@
 <details closed>
   <summary><b>Linux</b></summary>
   <br>
-  <p>Skills include:
+  <p>I completed Linux Academy's <a href = "https://linuxacademy.com/cp/modules/view/id/346">LPI Linux Essentials Certification</a> which coveres:
   <ul>
     <li>Kernel definition and naming conventions</li>
     <li>Basic commands (pwd, cd, ls, cat, history, etc.)</li>
@@ -62,6 +62,8 @@
     <li>Communicating within networks (Ping, FTP, SSH)</li>
     <li>Shell scripting and virtual terminals</li>
   </ul>
+  <img src="Linux-1.png" alt="Mock-Test" width="700" height="400" border="2">
+  <img src="Linux-2.png" alt="Linux Course Completion" width="700" height="400" border="2">
   </p>
 </details>
 
