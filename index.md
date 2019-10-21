@@ -71,13 +71,6 @@
 </details>
 
 <details closed>
-  <summary><b>Digital Ocean VPN</b></summary>
-  <br>
-  <p>I created a VPN through VirtualBox
-  </p>
-</details>
-
-<details closed>
   <summary><b>PowerShell</b></summary>
   <br>
   <p>Skills include:
