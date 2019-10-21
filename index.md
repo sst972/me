@@ -65,13 +65,15 @@
   <img src="Linux-1.png" alt="Mock-Test" width="600" height="400" border="2">
   <img src="Linux-2.png" alt="Linux Course Completion" width="600" height="400" border="2">
   </p>
+  <p>I also downloaded VirtualBox to create a virtual machine that runs Ubuntu using these <a href = "https://sal-a.github.io/vbox-ubuntu/#2-download-an-iso-file-for-ubuntu-from-httpsubuntucomdownloaddesktop">instructions</a>. On this VM, I set up my own AlgoVPN using these <a href = "https://github.com/trailofbits/algo">instructions</a>. This screenshot displays (left to right) my host IP address, AlgoVPN IP address, and DigitalOcean droplet:
+  <img src="DO-1.png" alt="VPN Connection" width="600" height="400" border="2">
+  </p>
 </details>
 
 <details closed>
   <summary><b>Digital Ocean VPN</b></summary>
   <br>
   <p>I created a VPN through VirtualBox
-  <img src="DO-1.png" alt="VPN Connection" width="600" height="400" border="2">
   </p>
 </details>
 
