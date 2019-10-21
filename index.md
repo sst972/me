@@ -68,6 +68,14 @@
 </details>
 
 <details closed>
+  <summary><b>Digital Ocean VPN</b></summary>
+  <br>
+  <p>I created a VPN through VirtualBox
+  <img src="DO-1.png" alt="VPN Connection" width="600" height="400" border="2">
+  </p>
+</details>
+
+<details closed>
   <summary><b>PowerShell</b></summary>
   <br>
   <p>Skills include:
