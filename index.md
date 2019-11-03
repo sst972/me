@@ -85,7 +85,7 @@
     <li>Elastic Load Balancer (ELB), Auto Scaling, Route 53</li>
     <li>Serverless Compute: Lambda</li>
   </ul>
-  <img src="AWS-1.png" alt=AWS Essentials" width="600" height="400" border="2">
+  <img src="AWS-1.png" alt="AWS Essentials" width="600" height="400" border="2">
   </p>
 </details>
 
