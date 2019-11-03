@@ -71,6 +71,25 @@
 </details>
 
 <details closed>
+  <summary><b>AWS</b></summary>
+  <br>
+  <p>I completed Linux Academy's <a href = "https://linuxacademy.com/cp/modules/view/id/241">AWS Essentials Course</a> which covers the basics and essentials of:
+  <ul>
+    <li>Identity and Access Management (IAM)</li>
+    <li>Virtual Private Cloud (VPC)</li>
+    <li>Elastic Cloud Compute (EC2)</li>
+    <li>Storage Services: S3, Buckets and Objects</li>
+    <li>Databases: RDS and DynamoDB Basics</li>
+    <li>Simple Notification Service (SNS)</li>
+    <li>Management Tools: CloudWatch and CloudTrail</li>
+    <li>Elastic Load Balancer (ELB), Auto Scaling, Route 53</li>
+    <li>Serverless Compute: Lambda</li>
+  </ul>
+  <img src="AWS-1.png" alt=AWS Essentials" width="600" height="400" border="2">
+  </p>
+</details>
+
+<details closed>
   <summary><b>PowerShell</b></summary>
   <br>
   <p>Skills include:
@@ -86,21 +105,6 @@
     <li>DSC and Linux</li>
   </ul>
   </p> 
-</details>
-
-<details closed>
-  <summary><b>AWS</b></summary>
-  <br>
-  <p>Courses completed include:
-  <ul>
-    <li>Definition and benefits of cloud computing</li>
-    <li>AWS Core Services</li>
-    <li>AWS Security</li>
-    <li>AWS Architecting</li>
-    <li>AWS Pricing and Support</li>
-    <li>AWS Product Demonstrations</li>
-  </ul>
-  </p>
 </details>
   
 <details closed>
