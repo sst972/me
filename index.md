@@ -97,18 +97,19 @@
 <details closed>
   <summary><b>PowerShell</b></summary>
   <br>
-  <p>Skills include:
+  <p>Through the LinkedIn Learning course <a href = "https://www.linkedin.com/learning/powershell-5-essential-training/next-steps">PowerShell 5 Essential Training</a>, I have gained a working knowledge of these skills:
   <ul>
     <li>PowerShell purpose, launching and commmandlets</li>
-    <li>Effective use of the help system</li>
-    <li>Using the pipeline, object and remote</li>
-    <li>Automation</li>
-    <li>Basic scripting</li>
-    <li>DSC architecture (push/pull)</li>
-    <li>Configuring servers for deployment</li>
-    <li>Common code practices</li>
-    <li>DSC and Linux</li>
+    <li>Understanding cmdlet syntax</li>
+    <li>Resolving terse commands and discovering commands</li>
+    <li>Finding and using local modules</li>
+    <li>Working with files, printers, CSVs, and XML in the pipeline</li>
+    <li>Selecting, sorting, and filtering object data</li>
+    <li>Creating scripts</li>
+    <li>Automation tasks</li>
+    <li>Using PowerShell remoting</li>
   </ul>
+  <img src="PowerShell-1.png" alt="PowerShell Cert" width="600" height="400" border="2">
   </p> 
 </details>
   
