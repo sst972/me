@@ -87,6 +87,11 @@
   </ul>
   <img src="AWS-1.png" alt="AWS Essentials" width="600" height="400" border="2">
   </p>
+  <p>
+  I configured AlgoVPN on Amazon EC2 using these <a href = "https://github.com/trailofbits/algo">instructions</a>. I also configured OpenVPN on Amazon EC2 using these <a href = "https://openvpn.net/vpn-server-resources/amazon-web-services-ec2-byol-appliance-quick-start-guide/">instructions</a>.
+  <img src="AWS-2.png" alt="AWS AlgoVPN" width="600" height="400" border="2">
+  <img src="AWS-3.png" alt="AWS OpenVPN" width="600" height="400" border="2">
+  </p>
 </details>
 
 <details closed>
