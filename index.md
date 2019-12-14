@@ -116,13 +116,15 @@
 <details closed>
   <summary><b>Salesforce</b></summary>
   <br>
-  <p>Courses completed include:
+  <p>I completed the <a href = "https://trailhead.salesforce.com/en/content/learn/trails/force_com_admin_beginner">Admin Beginner</a> cource through Salesforce's Trailhead site. The course includes units on:
   <ul>
     <li>Salesforce Platform Basics</li>
     <li>Data Modeling and Management</li>
     <li>Lightning Experience Customization</li>
     <li>Salesforce Mobile App Customization</li>
+    <li>User Engagement</li>
     <li>Reports & Dashboards for Lightning Experience</li>
   </ul>
+  <img src="Salesforce-1.png" alt="Salesforce Cert" width="600" height="400" border="2">
   </p> 
 </details>
