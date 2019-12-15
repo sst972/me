@@ -124,6 +124,7 @@
     <li>User Engagement</li>
     <li>Reports & Dashboards for Lightning Experience</li>
   </ul>
+  Also, here is my <a href = "https://trailblazer.me/id/strizza">Trailblazer</a> page with my badges.
   <img src="Salesforce-1.png" alt="Salesforce Cert" width="600" height="400" border="2">
   </p> 
 </details>
